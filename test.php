@@ -6,3 +6,4 @@
  * Time: 16:42
  */
 echo 'Fail';
+echo "fail";
